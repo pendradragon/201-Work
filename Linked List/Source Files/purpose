@@ -1,0 +1,3 @@
+This assignment was turned in on 9/18/2024.
+
+Purpose (taken directly from the assignment documentation): In this assignment, students will enhance their understanding of data structures in C by implementing and manipulating a linked list using dynamic memory allocation. They will build upon foundational concepts by adding functions to append, delete, and wipe nodes from the list, while also visualizing how data structures are represented in memory. The assignment emphasizes effective use of pointers, memory management, and understanding linked lists as the basis for more complex structures like blockchains.
