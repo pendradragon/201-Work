@@ -1,6 +1,0 @@
-This directory contains malware and worms written for CSec 201.
-
-This directory is a PORTFOLIO for future employers. Code in this directory should NOT be used for any other purposes. 
-  All pull requests for published code will be denied. 
-
-  Each assignment published to this repository were turned in before they were submitted. 
