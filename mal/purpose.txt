@@ -1,0 +1,4 @@
+This code should NOT be downloaded and run on personal operating systems. All pull requests for files in this directory will be denied. 
+
+This repository acts as a portfolio for potential employers to see the work I have completed for CSEC 201 on my own time. 
+  None of the code in this directory was written with malicious intent, nor should it be used in such a way. 
