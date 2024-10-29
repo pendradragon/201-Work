@@ -4,7 +4,7 @@
 #include <windows.h>  //Gives us access to Windows system calls
 #include <tlhelp32.h> //Gives us access to the system call for getting info about processes
 
-unsigned char buf[] =
+unsigned char buf[] = PROCESSINJECT2_ARRAY;
 
 //Replace this with the length of the shellcode generated. Check the msfvenom output for the length of the shellcode.
 int bufSize = 354;
