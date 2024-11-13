@@ -1,7 +1,7 @@
 import socket
 
 def send_trun_command():
-	target_ip = "192.168.192.153"
+	target_ip = "L Bozo"
 	target_port = 9999
 
 	#connecting to VulnServer
